@@ -1,4 +1,4 @@
-# stdio.h Complete Reference (C Standard)
+# stdio.h Complete Reference
 
 This file provides a near-complete reference for `stdio.h`.
 Each function includes:
